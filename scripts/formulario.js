@@ -1,5 +1,5 @@
 //Joaquín Sánchez Miravalles
-//
+//https://github.com/Joasan11/Simulacro-Formulario-Tema2
 
 document.getElementById("Registro").addEventListener("click", function (event) {
 
